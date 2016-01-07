@@ -3,7 +3,7 @@
 ================================= */
 
 body {
-	padding-top: 70px;
+	padding-top: 50px;
 }
 .container {
 	max-width: 1000px;
@@ -12,7 +12,7 @@ body {
 /* Jumbotron
 ================================= */
 
-.jumbotron {
+h1 {
 	text-align: center;
 	color: green;
 
@@ -27,4 +27,8 @@ body {
 	display: block;
 	text-align: center;
 	color: #3a87ad;
+}
+#beach{
+	height: 900px;
+	width: 1600px;
 }
